@@ -1,0 +1,584 @@
+trainLoss	0.26651494690053695
+testLoss	0.2626529981538539
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2654590798412525
+testLoss	0.2618330934834691
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2658535258700665
+testLoss	0.26214142108133553
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2647525684108375
+testLoss	0.26134317572067084
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.26429716356761107
+testLoss	0.2609992519772993
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2629501055644344
+testLoss	0.2600583455355389
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2613966487920265
+testLoss	0.25889333450562463
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.26023227222275336
+testLoss	0.2579876927020812
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2588914068959921
+testLoss	0.2569585098525578
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25789670790209823
+testLoss	0.2562360311015395
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2566661885809844
+testLoss	0.2552810945362014
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25790079272280564
+testLoss	0.25669590913874435
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2578040136499036
+testLoss	0.2567279552862184
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25802639181280174
+testLoss	0.25664168505530977
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25828408716087775
+testLoss	0.25625154368399783
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25746661731052145
+testLoss	0.2561700301063803
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25658733295087405
+testLoss	0.25566613087697937
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2559309549371282
+testLoss	0.25484851246155765
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25563230374668894
+testLoss	0.25476508701837164
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25566380972137737
+testLoss	0.2547262773109242
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2552239066601741
+testLoss	0.2541124050523452
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2552728049220824
+testLoss	0.25430167427003564
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25496719639856436
+testLoss	0.25369143962979374
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2559863254554186
+testLoss	0.2544412522994552
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25514232735765924
+testLoss	0.25408239010849415
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2560446649448143
+testLoss	0.25478187749104914
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25564404978815103
+testLoss	0.2541078807416883
+tp/fp/fn/tn	0	1	458	341
+false precision	0.4267834793491865
+trainLoss	0.2556302296462495
+testLoss	0.25459651252690657
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2556626580520415
+testLoss	0.2539936918729262
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25521693978059123
+testLoss	0.2539004345291817
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2550213852887805
+testLoss	0.25399961328998377
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2552428074101078
+testLoss	0.2541422891803553
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2547214174156364
+testLoss	0.25358738246161716
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.25402247151064034
+testLoss	0.25311982683015016
+tp/fp/fn/tn	0	1	458	341
+false precision	0.4267834793491865
+trainLoss	0.2549955291086683
+testLoss	0.25365197257999783
+tp/fp/fn/tn	0	0	458	342
+false precision	0.4275
+trainLoss	0.2530331954733293
+testLoss	0.2524910280807932
+tp/fp/fn/tn	12	7	446	335
+false precision	0.42893725992317544
+trainLoss	0.25136442334260184
+testLoss	0.25119869241067566
+tp/fp/fn/tn	41	35	417	307
+false precision	0.4240331491712707
+trainLoss	0.25041893516141783
+testLoss	0.2505012044028558
+tp/fp/fn/tn	156	130	302	212
+false precision	0.41245136186770426
+trainLoss	0.24957856987939617
+testLoss	0.24990821207757016
+tp/fp/fn/tn	333	261	125	81
+false precision	0.3932038834951456
+trainLoss	0.24922283446921664
+testLoss	0.24967886165677022
+tp/fp/fn/tn	370	291	88	51
+false precision	0.3669064748201439
+trainLoss	0.24866562655730545
+testLoss	0.24929617643882174
+tp/fp/fn/tn	413	315	45	27
+false precision	0.375
+trainLoss	0.2481866886505417
+testLoss	0.2489806066058457
+tp/fp/fn/tn	450	338	8	4
+false precision	0.3333333333333333
+trainLoss	0.24759722433562972
+testLoss	0.24861718474054315
+tp/fp/fn/tn	455	340	3	2
+false precision	0.4
+trainLoss	0.24742221325184563
+testLoss	0.24850748183909777
+tp/fp/fn/tn	451	339	7	3
+false precision	0.3
+trainLoss	0.24673413482033837
+testLoss	0.24805386848618383
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24641865480210148
+testLoss	0.2478638930500656
+tp/fp/fn/tn	457	341	1	1
+false precision	0.5
+trainLoss	0.2463820287731105
+testLoss	0.2480577185681836
+tp/fp/fn/tn	444	337	14	5
+false precision	0.2631578947368421
+trainLoss	0.2460265581039535
+testLoss	0.24781465914998635
+tp/fp/fn/tn	451	340	7	2
+false precision	0.2222222222222222
+trainLoss	0.2472216304545006
+testLoss	0.24816153879579075
+tp/fp/fn/tn	434	326	24	16
+false precision	0.4
+trainLoss	0.24511836600081952
+testLoss	0.24711632450786097
+tp/fp/fn/tn	447	329	11	13
+false precision	0.5416666666666666
+trainLoss	0.24472288254045066
+testLoss	0.24690533474982845
+tp/fp/fn/tn	446	331	12	11
+false precision	0.4782608695652174
+trainLoss	0.24446522688659011
+testLoss	0.24658907267197816
+tp/fp/fn/tn	445	327	13	15
+false precision	0.5357142857142857
+trainLoss	0.24410371646442816
+testLoss	0.24633073280793255
+tp/fp/fn/tn	442	328	16	14
+false precision	0.4666666666666667
+trainLoss	0.24411691874253505
+testLoss	0.24639056415577604
+tp/fp/fn/tn	448	323	10	19
+false precision	0.6551724137931034
+trainLoss	0.24286082919951635
+testLoss	0.24607125016559273
+tp/fp/fn/tn	457	342	1	0
+false precision	0.0
+trainLoss	0.2431678581176148
+testLoss	0.24627719120152855
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2426383979267326
+testLoss	0.24573233817408865
+tp/fp/fn/tn	457	342	1	0
+false precision	0.0
+trainLoss	0.2446126340924229
+testLoss	0.2462780194788271
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24516711987444753
+testLoss	0.24640303151861115
+tp/fp/fn/tn	458	341	0	1
+false precision	1.0
+trainLoss	0.24347636925515645
+testLoss	0.24629279355916317
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24304869064118798
+testLoss	0.24613486052352343
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24341131546297198
+testLoss	0.24639026786563456
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24233666389634884
+testLoss	0.2455565705051059
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2412810042056346
+testLoss	0.24534850961616808
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24192104192205233
+testLoss	0.2461312060256523
+tp/fp/fn/tn	457	342	1	0
+false precision	0.0
+trainLoss	0.24065251453179531
+testLoss	0.24551943442118243
+tp/fp/fn/tn	456	342	2	0
+false precision	0.0
+trainLoss	0.2400963178371431
+testLoss	0.24460521329204676
+tp/fp/fn/tn	457	342	1	0
+false precision	0.0
+trainLoss	0.24008356220349444
+testLoss	0.24418093513895375
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24049085763194394
+testLoss	0.24483112261015333
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23970896425193733
+testLoss	0.24479970537844095
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23954719022828916
+testLoss	0.244889853740429
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24033050887337393
+testLoss	0.24588659971192667
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2402622354942812
+testLoss	0.24605409379566764
+tp/fp/fn/tn	454	341	4	1
+false precision	0.2
+trainLoss	0.2405146286853475
+testLoss	0.24583191912368324
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2409498850938707
+testLoss	0.2457867426766263
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2409677193547353
+testLoss	0.24512927722187286
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24039163767592842
+testLoss	0.24579047190439915
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2400836516210304
+testLoss	0.24564295823593493
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2395739189065863
+testLoss	0.24617924518738923
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23902705122164367
+testLoss	0.24594274038649913
+tp/fp/fn/tn	457	342	1	0
+false precision	0.0
+trainLoss	0.23898599625148517
+testLoss	0.24592123711375932
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23904277938609872
+testLoss	0.24623381066520536
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2396359697717931
+testLoss	0.2461358311814922
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23963772923262713
+testLoss	0.24617427806719042
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23954223155384433
+testLoss	0.24647712299810912
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2395336626247883
+testLoss	0.24727381684722421
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2395054886444416
+testLoss	0.24693856913492643
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.239813573021814
+testLoss	0.24758928606590758
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2398870387914064
+testLoss	0.24733715862124342
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24045928335913594
+testLoss	0.2474638582197683
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2400340893537729
+testLoss	0.24522075583159278
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24123737263749498
+testLoss	0.2474008130259866
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24082960987869723
+testLoss	0.24695741389740694
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24001153871433656
+testLoss	0.2471505532714675
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23972698200498765
+testLoss	0.24693531879600847
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2396635974001548
+testLoss	0.2464751165756177
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23964492461680545
+testLoss	0.24620864004534201
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2394524902567655
+testLoss	0.24712604776517338
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2398215005281652
+testLoss	0.2482145850421041
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23976913453062695
+testLoss	0.24849321672862865
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23985800393901657
+testLoss	0.24768751635568884
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23974562225047788
+testLoss	0.2483493946378042
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23913298708670822
+testLoss	0.24625860338449762
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23903718775142144
+testLoss	0.24648832464608483
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23899426142821953
+testLoss	0.24648641976928118
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24022467959266805
+testLoss	0.24920289443098967
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24025025615822496
+testLoss	0.24925894350825628
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.23941153415197802
+testLoss	0.24793684237811267
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24033302464619155
+testLoss	0.24991976447927683
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.240561038350579
+testLoss	0.2501216125856528
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24026150026224877
+testLoss	0.2500666706469578
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24068776863747018
+testLoss	0.25102987057282783
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2414417286968125
+testLoss	0.25226941321627133
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24181944604626374
+testLoss	0.25250515052360173
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24250096134591734
+testLoss	0.2536149650742653
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24185244046809784
+testLoss	0.248353205612726
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24328381742984723
+testLoss	0.2528538801871258
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24344959950832534
+testLoss	0.25351667219446
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24220870116909277
+testLoss	0.24989015601556058
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24227957496243538
+testLoss	0.24966961576998845
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24235314025278604
+testLoss	0.24951302724463148
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24230548831687218
+testLoss	0.2502486112233441
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24518802409725382
+testLoss	0.25600060870310193
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24364208335827217
+testLoss	0.25438103833317666
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24593319882618206
+testLoss	0.25785071077358573
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2465353416203006
+testLoss	0.25904963051907354
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24746111426495596
+testLoss	0.26011709500938224
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2463401407343163
+testLoss	0.260438615810233
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24764942995713857
+testLoss	0.26005001629134944
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2485700906742787
+testLoss	0.26138754451805074
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24896389777292485
+testLoss	0.2629362756703706
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.25065636299012134
+testLoss	0.26476230253380034
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.24692436194225809
+testLoss	0.2595320108339711
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.25030126580175793
+testLoss	0.26447679131510604
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.25008772033789073
+testLoss	0.26409650572715665
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.25169663352647087
+testLoss	0.26581125272312406
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2498274862297942
+testLoss	0.2634573560963831
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2537789280675576
+testLoss	0.26847937461336707
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.254637269704353
+testLoss	0.2693872355830589
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.253901602876643
+testLoss	0.26864523504160076
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.2550179789395962
+testLoss	0.2699081348772562
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.25605377603894164
+testLoss	0.2712324728195107
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.25664815378540734
+testLoss	0.27194989226965016
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.25507975466571253
+testLoss	0.26954247627171035
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.25774432068245273
+testLoss	0.27346882813567147
+tp/fp/fn/tn	458	342	0	0
+false precision	0
+trainLoss	0.25931278449378564
+testLoss	0.2754559351520908
+tp/fp/fn/tn	458	342	0	0
+false precision	0
