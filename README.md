@@ -1,6 +1,6 @@
 ![architecture](./simMatFigure.png)
 
-#embedding dir
+#embedding dir<br />
 data/glove/300d.txt
 
 #data dir
